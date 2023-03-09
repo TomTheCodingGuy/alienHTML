@@ -8,6 +8,15 @@
 - You can edit an already existing file, or create a new one.
 - Indentation!
 
+## Install:
+```
+pip install alienHTML
+```
+- Latest version:
+```
+pip install alienHTML==0.0.4
+```
+
 ## Example:
 ```python
 from alienHTML import *
@@ -32,6 +41,9 @@ Outputs:
 - Prints the file in shell.
 - Opens the page in a web browser
 
+## Tips:
+- If you do not have a .ico file, you can use https://cloudconvert.com to convert any image files to .ico.
+- This is designed to help people learn HTML, and is not recommened for advanced web development.
 ## To do:
 
 - Add more web page features.
