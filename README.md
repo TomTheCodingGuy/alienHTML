@@ -14,7 +14,7 @@ pip install alienHTML
 ```
 - Latest version:
 ```
-pip install alienHTML==0.0.4
+pip install alienHTML==0.0.5
 ```
 
 ## Example:
